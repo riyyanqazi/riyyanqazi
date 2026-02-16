@@ -1,16 +1,21 @@
-## Hi there 👋
+# 👋 Hi, I'm Riyyan!
 
-<!--
-**riyyanqazi/riyyanqazi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🚀 MERN Stack Student @ SMIT
+I'm a Frontend Developer currently mastering the MERN Stack. I build responsive web apps and love turning ideas into code.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### 🛠️ Tech Stack
+- **Frontend:** React.js, JavaScript, HTML/CSS, Tailwind CSS
+- **Learning:** Node.js, Express.js, MongoDB
+- **Tools:** Git, GitHub, VS Code, Firebase
+
+---
+
+### 📊 My Stats
+![Riyyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyyanqazi&show_icons=true&theme=dark)
+
+---
+
+### 📫 Connect with me
+[LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:your-email@example.com)
