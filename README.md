@@ -1,21 +1,19 @@
 # 👋 Hi, I'm Riyyan!
 
-### 🚀 MERN Stack Student @ SMIT
-I'm a Frontend Developer currently mastering the MERN Stack. I build responsive web apps and love turning ideas into code.
+Frontend Developer Intern at @Techriv | HTML5, CSS3, JavaScript (ES6+) | Bootstrap | SMIT Student
 
 ---
 
 ### 🛠️ Tech Stack
-- **Frontend:** React.js, JavaScript, HTML/CSS, Tailwind CSS
-- **Learning:** Node.js, Express.js, MongoDB
-- **Tools:** Git, GitHub, VS Code, Firebase
+- **Frontend:** HTML/CSS, Tailwind CSS , JavaScript , Firebase
+- **Learning:** React.js, Node.js, Express.js, MongoDB , 
+
 
 ---
 
-### 📊 My Stats
-![Riyyan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=riyyanqazi&show_icons=true&theme=dark)
+
 
 ---
 
 ### 📫 Connect with me
-[LinkedIn](YOUR_LINKEDIN_URL) | [Email](mailto:your-email@example.com)
+[LinkedIn](https://www.linkedin.com/in/riyyan-qazi/) | [X](mailto:your-email@example.com)
